@@ -1,0 +1,15 @@
+
+@media screen and (max-width: 576px ) {
+
+    body {
+        background-color: black;
+    }
+    
+}
+
+@media print {
+    body {
+    -webkit-print-color-adjust: exact !important;
+}
+  
+} 

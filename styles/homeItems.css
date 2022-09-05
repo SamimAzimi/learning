@@ -1,0 +1,30 @@
+.items:nth-child(odd){
+    background-color: rgb(8, 34, 179);
+}
+.items:nth-child(even){
+    background-color: rgb(41, 59, 223);
+}
+.items {
+ 
+    
+}
+/* .item2 {
+    background-color: yellow;
+    
+}
+.item3 {
+    background-color: green;
+    
+}
+.item4 {
+    background-color: pink;
+    
+}
+.item5 {
+    background-color: purple;
+    
+}
+.item6 {
+    background-color: aquamarine;
+    
+} */
